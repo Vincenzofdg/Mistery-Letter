@@ -3,6 +3,6 @@ Knowledge Required:
  - DOM and Selector;
  - Working with Elements;
  - Events;
- - Web Storege.
+ - Web Storage.
 
 ![image](preview.gif)
